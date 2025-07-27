@@ -1,0 +1,23 @@
+{
+  "collection_id": "collection_1",
+  "domain": "financial_reports",
+  "documents": [
+    {
+      "file_name": "report_2021.pdf",
+      "title": "Annual Financial Report 2021",
+      "type": "Financial Report"
+    },
+    {
+      "file_name": "report_2022.pdf",
+      "title": "Annual Financial Report 2022",
+      "type": "Financial Report"
+    },
+    {
+      "file_name": "report_2023.pdf",
+      "title": "Annual Financial Report 2023",
+      "type": "Financial Report"
+    }
+  ],
+  "persona": "Investment Analyst",
+  "job_to_be_done": "Analyze revenue trends, R&D investments, and market positioning strategies."
+}

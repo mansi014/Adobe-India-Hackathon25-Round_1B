@@ -1,0 +1,30 @@
+{
+  "collection_id": "collection_1",
+  "metadata": {
+    "documents": ["report_2021.pdf", "report_2022.pdf", "report_2023.pdf"],
+    "persona": "Investment Analyst",
+    "job_to_be_done": "Analyze revenue trends, R&D investments, and market positioning strategies.",
+    "processing_timestamp": "2025-07-28T10:15:00Z"
+  },
+  "extracted_sections": [
+    {
+      "document": "report_2021.pdf",
+      "page_number": 4,
+      "section_title": "Revenue Overview",
+      "importance_rank": 1
+    },
+    {
+      "document": "report_2022.pdf",
+      "page_number": 6,
+      "section_title": "R&D Spend Analysis",
+      "importance_rank": 2
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "report_2022.pdf",
+      "page_number": 6,
+      "refined_text": "The company's R&D investments increased by 12% in 2022..."
+    }
+  ]
+}

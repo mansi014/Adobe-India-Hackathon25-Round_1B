@@ -1,0 +1,18 @@
+{
+  "collection_id": "collection_2",
+  "domain": "product_manuals",
+  "documents": [
+    {
+      "file_name": "product_guide_A.pdf",
+      "title": "SmartHome Thermostat X",
+      "type": "Product Manual"
+    },
+    {
+      "file_name": "product_guide_B.pdf",
+      "title": "SmartHome Security Cam Z",
+      "type": "Product Manual"
+    }
+  ],
+  "persona": "Product Support Engineer",
+  "job_to_be_done": "Identify key setup steps and common troubleshooting guidelines."
+}

@@ -1,0 +1,23 @@
+{
+  "collection_id": "collection_3",
+  "domain": "education",
+  "documents": [
+    {
+      "file_name": "organic_chemistry_chapter1.pdf",
+      "title": "Organic Chemistry - Chapter 1",
+      "type": "Textbook Chapter"
+    },
+    {
+      "file_name": "organic_chemistry_chapter2.pdf",
+      "title": "Organic Chemistry - Chapter 2",
+      "type": "Textbook Chapter"
+    },
+    {
+      "file_name": "organic_chemistry_chapter3.pdf",
+      "title": "Organic Chemistry - Chapter 3",
+      "type": "Textbook Chapter"
+    }
+  ],
+  "persona": "Undergraduate Chemistry Student",
+  "job_to_be_done": "Identify key concepts and mechanisms for exam preparation on reaction kinetics."
+}
